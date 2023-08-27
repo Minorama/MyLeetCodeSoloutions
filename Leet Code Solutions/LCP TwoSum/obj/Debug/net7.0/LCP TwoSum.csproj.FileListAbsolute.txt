@@ -1,0 +1,14 @@
+C:\Code\LCP TwoSum\bin\Debug\net7.0\LCP TwoSum.exe
+C:\Code\LCP TwoSum\bin\Debug\net7.0\LCP TwoSum.deps.json
+C:\Code\LCP TwoSum\bin\Debug\net7.0\LCP TwoSum.runtimeconfig.json
+C:\Code\LCP TwoSum\bin\Debug\net7.0\LCP TwoSum.dll
+C:\Code\LCP TwoSum\bin\Debug\net7.0\LCP TwoSum.pdb
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.AssemblyInfoInputs.cache
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.AssemblyInfo.cs
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.csproj.CoreCompileInputs.cache
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.dll
+C:\Code\LCP TwoSum\obj\Debug\net7.0\refint\LCP TwoSum.dll
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.pdb
+C:\Code\LCP TwoSum\obj\Debug\net7.0\LCP TwoSum.genruntimeconfig.cache
+C:\Code\LCP TwoSum\obj\Debug\net7.0\ref\LCP TwoSum.dll
