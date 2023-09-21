@@ -1,0 +1,14 @@
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\bin\Debug\net7.0\Palindrome.exe
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\bin\Debug\net7.0\Palindrome.deps.json
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\bin\Debug\net7.0\Palindrome.runtimeconfig.json
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\bin\Debug\net7.0\Palindrome.dll
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\bin\Debug\net7.0\Palindrome.pdb
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.AssemblyInfoInputs.cache
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.AssemblyInfo.cs
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.csproj.CoreCompileInputs.cache
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.dll
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\refint\Palindrome.dll
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.pdb
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\Palindrome.genruntimeconfig.cache
+c:\Code\Leet Code Solutions\Palindrome\Palindrome\obj\Debug\net7.0\ref\Palindrome.dll

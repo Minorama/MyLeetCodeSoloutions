@@ -1,0 +1,14 @@
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.AssemblyInfoInputs.cache
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.AssemblyInfo.cs
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.csproj.CoreCompileInputs.cache
+c:\Code\Leet Code Solutions\RomanToIntiger\bin\Debug\net7.0\RomanToIntiger.exe
+c:\Code\Leet Code Solutions\RomanToIntiger\bin\Debug\net7.0\RomanToIntiger.deps.json
+c:\Code\Leet Code Solutions\RomanToIntiger\bin\Debug\net7.0\RomanToIntiger.runtimeconfig.json
+c:\Code\Leet Code Solutions\RomanToIntiger\bin\Debug\net7.0\RomanToIntiger.dll
+c:\Code\Leet Code Solutions\RomanToIntiger\bin\Debug\net7.0\RomanToIntiger.pdb
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.dll
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\refint\RomanToIntiger.dll
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.pdb
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\RomanToIntiger.genruntimeconfig.cache
+c:\Code\Leet Code Solutions\RomanToIntiger\obj\Debug\net7.0\ref\RomanToIntiger.dll

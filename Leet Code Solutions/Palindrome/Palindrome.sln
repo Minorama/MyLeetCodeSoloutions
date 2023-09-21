@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{AEF4A7E9-36D8-4AE2-A69B-4C1EF405B313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToIntiger", "..\RomanToIntiger\RomanToIntiger.csproj", "{3B24101F-B82E-4176-8D87-31994F073BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF4A7E9-36D8-4AE2-A69B-4C1EF405B313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF4A7E9-36D8-4AE2-A69B-4C1EF405B313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF4A7E9-36D8-4AE2-A69B-4C1EF405B313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF4A7E9-36D8-4AE2-A69B-4C1EF405B313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B24101F-B82E-4176-8D87-31994F073BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B24101F-B82E-4176-8D87-31994F073BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B24101F-B82E-4176-8D87-31994F073BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B24101F-B82E-4176-8D87-31994F073BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
